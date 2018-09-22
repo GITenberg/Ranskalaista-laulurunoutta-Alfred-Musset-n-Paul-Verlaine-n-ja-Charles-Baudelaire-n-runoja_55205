@@ -1,0 +1,64 @@
+_repo: Ranskalaista-laulurunoutta-Alfred-Musset-n-Paul-Verlaine-n-ja-Charles-Baudelaire-n-runoja_55205
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Streng, Hilja Onerva
+    - Lehtinen, Onerva
+    - Madetoja, Hilja Onerva
+    - Lehtinen, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+creator:
+  authors:
+  - agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+  - agent_name: Musset, Alfred de
+    aliases:
+    - Musset, Louis Charles Alfred de
+    - De Musset, Alfred
+    - DeMusset, Alfred
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+  - agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+description: ''
+gutenberg_issued: '2017-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55205'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: 'Ranskalaista laulurunoutta
+
+  Alfred Musset''n, Paul Verlaine''n ja Charles Baudelaire''n runoja'
+url: http://www.gutenberg.org/ebooks/55205
