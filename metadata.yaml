@@ -1,5 +1,5 @@
 _repo: Ranskalaista-laulurunoutta-Alfred-Musset-n-Paul-Verlaine-n-ja-Charles-Baudelaire-n-runoja_55205
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Onerva, L.
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '2741'
     url: http://www.gutenberg.org/2009/agents/2741
     wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Baudelaire, Charles
@@ -46,6 +49,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul_Verlaine
     - http://en.wikipedia.org/wiki/Paul_Verlaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55205#Ranskalaista-laulurunoutta-Alfred-Musset-n-Paul-Verlaine-n-ja-Charles-Baudelaire-n-runoja
 gutenberg_issued: '2017-07-26'
 gutenberg_type: Text
 identifiers:
